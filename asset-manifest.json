@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-chat-challenge/static/css/main.a350c964.chunk.css",
+    "main.js": "/react-chat-challenge/static/js/main.f410470b.chunk.js",
+    "main.js.map": "/react-chat-challenge/static/js/main.f410470b.chunk.js.map",
+    "runtime-main.js": "/react-chat-challenge/static/js/runtime-main.c111d524.js",
+    "runtime-main.js.map": "/react-chat-challenge/static/js/runtime-main.c111d524.js.map",
+    "static/js/2.7a63e091.chunk.js": "/react-chat-challenge/static/js/2.7a63e091.chunk.js",
+    "static/js/2.7a63e091.chunk.js.map": "/react-chat-challenge/static/js/2.7a63e091.chunk.js.map",
+    "static/js/3.5b62b6c3.chunk.js": "/react-chat-challenge/static/js/3.5b62b6c3.chunk.js",
+    "static/js/3.5b62b6c3.chunk.js.map": "/react-chat-challenge/static/js/3.5b62b6c3.chunk.js.map",
+    "index.html": "/react-chat-challenge/index.html",
+    "static/css/main.a350c964.chunk.css.map": "/react-chat-challenge/static/css/main.a350c964.chunk.css.map",
+    "static/js/2.7a63e091.chunk.js.LICENSE.txt": "/react-chat-challenge/static/js/2.7a63e091.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c111d524.js",
+    "static/js/2.7a63e091.chunk.js",
+    "static/css/main.a350c964.chunk.css",
+    "static/js/main.f410470b.chunk.js"
+  ]
+}
